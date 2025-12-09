@@ -25,3 +25,11 @@ $${\color{#774242} ㅤi⠀will⠀always⠀keep⠀the⠀answerㅤ»}$$ <br/>
   <summary></summary>
 don sonnellino's personal boywhore and husband <br/>
 🤤
+ㅤ <br/>
+ㅤ <br/>
+ㅤ <br/>
+ㅤ <br/>
+ㅤ <br/>
+ㅤ <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=5&color=FF0000&center=true&vCenter=true&width=435&height=60&lines=SOMEWHERE+IN+NEVADA" alt="Typing SVG" /></a> <br/>
+^ too lazy to store this somewhere else #ignore it bruh ^
