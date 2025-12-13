@@ -28,7 +28,7 @@
   don sonnellino's personal boywhore and husband <br/>
   ㅤ<br/>
   <details>
-  <summary>ㅤshiny button collectionㅤ ㅤ ㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ✦ㅤ</summary>
+  <summary>ㅤshiny button collectionㅤ(ever-growing)ㅤ ㅤ ㅤㅤㅤㅤ✦ㅤ</summary>
   ㅤ<br/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449245761538887720/spade.gif?ex=693e32cb&is=693ce14b&hm=47aa5e1666d1f18405306ca3abf50381ef0cced104c637d2f7ae6817d399faa8&=" width="50" height="20" alt="spade"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449246982295126077/entity.gif?ex=693e33ee&is=693ce26e&hm=6dc8ebdb041fbbd63e294e1c6d212e1b0c8e1865e7570fe60cb18c8db9a635c7&=" width="60" height="20" alt="entity"/>
