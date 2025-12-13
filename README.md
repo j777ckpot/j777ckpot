@@ -26,7 +26,7 @@
   <summary>ㅤshiny button collectionㅤ(ever-growing/wip)ㅤㅤㅤㅤㅤ✦ㅤ</summary>
   ㅤ<br/>
   all of the buttons i collect apply to me/my interests in one way or another <br/>
-  some of these may or may not be broken i'm too lazy to figure out how to fix them <br/>
+  some of these may or may not be broken and i'm too lazy to fix them lmao <br/>
   ㅤ<br/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449245761538887720/spade.gif?ex=693e32cb&is=693ce14b&hm=47aa5e1666d1f18405306ca3abf50381ef0cced104c637d2f7ae6817d399faa8&=" width="50" height="20" alt="spade"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449246982295126077/entity.gif?ex=693e33ee&is=693ce26e&hm=6dc8ebdb041fbbd63e294e1c6d212e1b0c8e1865e7570fe60cb18c8db9a635c7&=" width="60" height="20" alt="entity"/>
@@ -37,8 +37,8 @@
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449249095041421527/roblox.gif?ex=693e35e6&is=693ce466&hm=91607b4a1023616770d68a9a49314f43bd9b2b1a7d1180649285c6d9aa3e67a0&=" width="70" height="18" alt="roblox"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449247644395507754/halloween_2.gif?ex=693e348c&is=693ce30c&hm=4c53861e460a02156693c61db8d9cb0fe57ceeb3e8bf2ff106291def567626bb&=" width="90" height="18" alt="halloween"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449246065726587031/burger.gif?ex=693e3313&is=693ce193&hm=83655cec74792a972a8aba7836b48eea8197924ff159592de9837333adc16898&=" width="70" height="18" alt="burger"/>
-  <img src="https://cdn.discordapp.com/attachments/1326789790150037524/1449251268592799794/spooky.gif?ex=693e37ec&is=693ce66c&hm=8fc14b1d33ca17a74aaeef9b91344e10959d6a4f8aaafb22da7e6ce540db1dbf" width="65" height="18" alt="spooky"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449251150627999785/tumblr_418310512173f30e2a9a4b98a75a7433_99d42a44_75.gif?ex=693e37d0&is=693ce650&hm=b9ac18155d5389d9e8eb84d42f1017b5a74d6835536babdafb1399edf7678116&=" width="70" height="18" alt="malevola"/>
+  <img src="https://cdn.discordapp.com/attachments/1326789790150037524/1449251268592799794/spooky.gif?ex=693e37ec&is=693ce66c&hm=8fc14b1d33ca17a74aaeef9b91344e10959d6a4f8aaafb22da7e6ce540db1dbf" width="65" height="18" alt="spooky"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449251278374047744/shadow.gif?ex=693e37ee&is=693ce66e&hm=187dcf3154bee123de35395fd28bbef083fb61ae4cf08c34eceba0d9603610b4&=" width="85" height="18" alt="shadow"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449245301390184449/EVIL.gif?ex=693e325d&is=693ce0dd&hm=2266febb2be959b717d2f1e10b86007e593a627c9db3e919de9304ea7e1e58c3&=" width="50" height="18" alt="EVIL"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449250380092280904/tumblr_a3d7915917a3c139e8f51adc83477bea_04f780aa_250.gif?ex=693e3718&is=693ce598&hm=f6bb01add8246cf0cd89cb459f16c0ca1bb66718adc92d7503ef5723527eb8d6&=" width="130" height="18" alt="evil fucking gay"/>
@@ -55,5 +55,14 @@
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449388984890560563/LCB.gif?ex=693eb82e&is=693d66ae&hm=cec31c307562cd7cb62ecec40fc84a8ea37df5498b2807e9fcebd35d6795b0d1&=" width="40" height="18" alt="LCB"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449389247772495983/limbus_company.gif?ex=693eb86d&is=693d66ed&hm=0ee3606b71dcd601f9017a2bad2cc985bd3b042d8d15d473f8b1f45b53ba91ae&=" width="140" height="18" alt="limbus company"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449389257356742737/limbus_2.gif?ex=693eb86f&is=693d66ef&hm=3d4456def7eb658ff9ea935adf07235aea3b4d6e412e8f5d9a9f3014e2d5812b&=" width="70" height="18" alt="limbus"/>
+  ㅤ<br/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449477611947294817/tumblr_8517b9498b3ae80534923806b2b6a7c5_738e2b38_75.gif?ex=693f0ab8&is=693db938&hm=4aeecc0cbbc7a784803373a22e78ce8342cdac5eba2f6dabc869b4993ebf782f&=" width="60" height="18" alt="lucky"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449479391146152146/tumblr_72d119e5ce1939489c7e88672987fd4d_b81f32d8_75.gif?ex=693f0c60&is=693dbae0&hm=57bfa14ff64e485f21faae0d57c6f18b4a291665c61cb9eabdb88e9fd2b28d48&=" width="70" height="18" alt="leafeon"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449477102998126652/outis_2.gif?ex=693f0a3f&is=693db8bf&hm=0fffcda05e1fc659019b1f8f5a0a17dc64512a6127b9af80be0be6a54478a3a5&=" width="60" height="18" alt="outis 1"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449477089572028647/outis_1.gif?ex=693f0a3c&is=693db8bc&hm=474c0ccf7f9abdf9632c94bd000408a3f4a86a6beab4c43c25f21e3ea239cad6&=" width="80" height="18" alt="outis 2"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449477819238187008/darkheart.gif?ex=693f0aea&is=693db96a&hm=44ffa9a0cfc493a8cd06ea48371f73ba9e1e585a89bc26d9f68eb2fabd693eea&=" width="90" height="18" alt="darkheart"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449477852805202100/1x1x1x1.gif?ex=693f0af2&is=693db972&hm=e735646c83d886e14595cf8f1657ef01949c7b84a44875ff3afda4fb9ba5792e&=" width="100" height="18" alt="1x1x1x1 1"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449478581926494258/1x1x1x1_2.gif?ex=693f0b9f&is=693dba1f&hm=5cb87555dfe288e197a2a8b26f6ddb228be9888b61c79fba3a9685fc3b11e6da&=" width="90" height="18" alt="1x1x1x1 2"/>
+  <img src="https://media.discordapp.net/attachments/1326789790150037524/1449478595406725234/1x1x1x1_3.gif?ex=693f0ba3&is=693dba23&hm=a53212ca4e0e228fc6c8b9853f58b1561d5375135ee2cac945dab339721c5611&=" width="140" height="18" alt="1x1x1x1 3"/>
 ㅤ<br/>
 ㅤ<br/>
