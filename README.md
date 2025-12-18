@@ -26,7 +26,7 @@
   <summary>ㅤ(mostly) shiny button collectionㅤ(ever-growing/wip)ㅤ✦ㅤ</summary>
   ㅤ<br/>
   all of the buttons i collect apply to me/my interests in one way or another <br/>
-  some of these may or may not be broken and i'm too lazy to fix them lmao <br/>
+  (some of these may or may not be broken and i'm too lazy to fix them lmao) <br/>
   ㅤ<br/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1449245761538887720/spade.gif?ex=693e32cb&is=693ce14b&hm=47aa5e1666d1f18405306ca3abf50381ef0cced104c637d2f7ae6817d399faa8&=" width="50" height="18" alt="spade"/>
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1451052563742068736/comedy.gif?ex=6944c582&is=69437402&hm=452cb2e927d4c7f8c925cf11fb5a2b404abf85da48b241958507b259903d1c08&=" width="80" height="18" alt="comedy"/>
@@ -89,3 +89,4 @@
   <img src="https://media.discordapp.net/attachments/1326789790150037524/1451045787629781002/kwite.gif?ex=6944bf32&is=69436db2&hm=117d669621c50af8a8f5bdbf500791132f1df4ed8b5df8800973495a9bad433c&=" width="60" height="18" alt="kwite"/>
 ㅤ<br/>
   <br/>
+  last update:ㅤ12/18/2025, 4:30am <br/>
