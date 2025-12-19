@@ -23,7 +23,7 @@
 ㅤ<br/>
 
   <details>
-  <summary>ㅤbutton collectionㅤ(ever-growing/wip)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ✦ㅤ</summary>
+  <summary>ㅤbutton collectionㅤ(ever-growing/wip)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ✦ㅤ</summary>
   ㅤ<br/>
   all of the buttons i collect apply to me/my interests in one way or another <br/>
   (some of these may or may not be broken and i'm too lazy to fix them lmao) <br/>
