@@ -16,8 +16,6 @@
 
   [crrd](https://j777cking-my-jenis.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br/>
     [sign ata](https://j777ckpot.atabook.org)ㅤㅤㅤ[sign tet](https://tetratto.com/@j777ckpot) <br/>
-    
-  [color tree](https://colormytree.me/2025/01KBBKB6ETGJY7QKCTZFPPJ16Z)
 
 ㅤ<br/>
 ㅤ<br/>
