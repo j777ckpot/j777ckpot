@@ -10,7 +10,7 @@
 **jhariah,⠀captain,⠀jacques,⠀chance**ㅤ+ *other* <br/>
 8teen,ㅤhe/him
 
-<img src="https://files.catbox.moe/it8lrn.png" width="450" height="500" alt="Image"/> <br/>
+<img src="https://files.catbox.moe/skumh0.png" width="450" height="500" alt="Image"/> <br/>
 
   [crrd](https://j777cking-my-jenis.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br/>
     [sign ata](https://j777ckpot.atabook.org)ㅤㅤㅤ[sign tet](https://tetratto.com/@j777ckpot) <br/>
