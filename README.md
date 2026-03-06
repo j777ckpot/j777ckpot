@@ -10,9 +10,7 @@
 **jhariah,⠀captain,⠀jacques,⠀chance**ㅤ+ *other* <br/>
 8teen,ㅤhe/him
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Radley&duration=8500&pause=1000&color=374455&center=true&vCenter=true&repeat=false&width=435&lines=your+eyes+are" alt="Typing SVG" /></a> <br/>
-<img src="https://files.catbox.moe/l77a9c.png" width="450" height="500" alt="Image"/> <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Radley&duration=15000&pause=1000&color=374455&center=true&vCenter=true&repeat=false&width=435&lines=so+beautiful" alt="Typing SVG" /></a> <br/>
+<img src="https://files.catbox.moe/it8lrn.png" width="450" height="500" alt="Image"/> <br/>
 
   [crrd](https://j777cking-my-jenis.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br/>
     [sign ata](https://j777ckpot.atabook.org)ㅤㅤㅤ[sign tet](https://tetratto.com/@j777ckpot) <br/>
