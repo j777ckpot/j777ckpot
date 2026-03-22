@@ -7,7 +7,7 @@
 
 <br/>
 
-**jhariah,⠀captain,⠀jacques,⠀chance**ㅤ+ *other* <br/>
+**jhariah,⠀captain,⠀jacques,⠀chance,⠀noli**ㅤ+ *other* <br/>
 8teen,ㅤhe/him
 
 <img src="https://files.catbox.moe/99z50u.png" width="450" height="500" alt="Image"/> <br/>
