@@ -31,10 +31,13 @@
   <img src="https://files.catbox.moe/c8amq0.gif" width="60" height="18" alt="entity"/>
   <img src="https://files.catbox.moe/x7x3ql.webp" width="60" height="18" alt="tragic"/>
   <img src="https://files.catbox.moe/tp3mkf.gif" width="80" height="18" alt="tragedy"/>
+  <img src="https://files.catbox.moe/1776pm.gif" width="65" height="18" alt="deimos"/>
   <img src="https://files.catbox.moe/4k2wvv.gif" width="95" height="18" alt="gambler"/>
   <img src="https://files.catbox.moe/k2vre3.gif" width="95" height="18" alt="sentinel"/>
   <img src="https://files.catbox.moe/36n99z.gif" width="80" height="18" alt="chance"/>
   <img src="https://files.catbox.moe/qwfuts.gif" width="50" height="18" alt="inked"/>
+  <img src="https://files.catbox.moe/ibp830.gif" width="130" height="18" alt="blocktales"/>
+  <img src="https://files.catbox.moe/36e382.gif" width="120" height="18" alt="forsaken"/>
   <img src="https://files.catbox.moe/c6o8ch.gif" width="100" height="18" alt="ghostface"/>
   ㅤ<br/>
   <img src="https://files.catbox.moe/ju23in.gif" width="100" height="18" alt="radiohead"/>
@@ -49,6 +52,7 @@
   <img src="https://files.catbox.moe/v7f3c4.gif" width="75" height="18" alt="malevola"/>
   <img src="https://files.catbox.moe/gc9a1u.gif" width="65" height="18" alt="spooky"/>
   <img src="https://files.catbox.moe/raaaz4.gif" width="110" height="18" alt="creepypasta fan"/>
+  <img src="https://files.catbox.moe/teals8.gif" width="90" height="18" alt="pinterest"/>
   <img src="https://files.catbox.moe/lpp5vl.gif" width="85" height="18" alt="shadow"/>
   <img src="https://files.catbox.moe/a5rpmu.gif" width="45" height="18" alt="EVIL"/>
   <img src="https://files.catbox.moe/3o26wi.gif" width="130" height="18" alt="evil fucking gay"/>
@@ -61,9 +65,13 @@
   <img src="https://files.catbox.moe/xgn9em.gif" width="80" height="18" alt="pumpkin"/>
   <img src="https://files.catbox.moe/ks3nfx.gif" width="90" height="18" alt="halloween"/>
   ㅤ<br/>
+  <img src="https://files.catbox.moe/xg9wkb.gif" width="50" height="18" alt="nerd"/>
   <img src="https://files.catbox.moe/1rar2n.gif" width="65" height="18" alt="gregor 1"/>
   <img src="https://files.catbox.moe/s22m3h.gif" width="70" height="18" alt="gregor 2"/>
   <img src="https://files.catbox.moe/4ki28y.gif" width="90" height="18" alt="kemonomimi"/>
+  <img src="https://files.catbox.moe/47atfn.gif" width="70" height="18" alt="dogboy"/>
+  <img src="https://files.catbox.moe/avyx3x.gif" width="70" height="18" alt="cowboy"/>
+  <img src="https://files.catbox.moe/j7ugyh.gif" width="65" height="18" alt="writer"/>
     <br/>
   <img src="https://files.catbox.moe/7y43wn.gif" width="80" height="18" alt="right hand"/>
   <img src="https://files.catbox.moe/uzrdfy.gif" width="55" height="18" alt="angel"/>
@@ -94,4 +102,4 @@
   <img src="https://files.catbox.moe/urzv06.gif" width="60" height="18" alt="medkit 2"/>
 ㅤ<br/>
   <br/>
-  last update:ㅤ03/22/2026, 07:30am <br/>
+  last update:ㅤ03/22/2026, 07:46am <br/>
