@@ -73,6 +73,7 @@
   <img src="https://files.catbox.moe/47atfn.gif" width="70" height="18" alt="dogboy"/>
   <img src="https://files.catbox.moe/avyx3x.gif" width="70" height="18" alt="cowboy"/>
   <img src="https://files.catbox.moe/j7ugyh.gif" width="65" height="18" alt="writer"/>
+  <img src="https://files.catbox.moe/t8q2ch.gif" width="45" height="18" alt="ARG"/>
     <br/>
   <img src="https://files.catbox.moe/7y43wn.gif" width="80" height="18" alt="right hand"/>
   <img src="https://files.catbox.moe/uzrdfy.gif" width="55" height="18" alt="angel"/>
@@ -101,6 +102,25 @@
   <img src="https://files.catbox.moe/bgcsl0.gif" width="60" height="18" alt="sinner"/>
   <img src="https://files.catbox.moe/y0x44o.gif" width="60" height="18" alt="medkit"/>
   <img src="https://files.catbox.moe/urzv06.gif" width="60" height="18" alt="medkit 2"/>
+  ㅤ<br/>
+  <img src="https://files.catbox.moe/lxgozo.gif" width="60" height="18" alt="pirate"/>
+  <img src="https://files.catbox.moe/gte487.gif" width="65" height="18" alt="robert"/>
+  <img src="https://files.catbox.moe/dqbwdd.gif" width="45" height="18" alt="yaoi"/>
+  <img src="https://files.catbox.moe/m6jlrj.gif" width="65" height="18" alt="anxious"/>
+  <img src="https://files.catbox.moe/snpwg1.gif" width="80" height="18" alt="loser boy"/>
+  <img src="https://files.catbox.moe/2t3yil.gif" width="75" height="18" alt="bluudud"/>
+  <img src="https://files.catbox.moe/ug9lsh.gif" width="85" height="18" alt="streamer"/>
+  <img src="https://files.catbox.moe/1p4kyn.gif" width="70" height="18" alt="balls!!!"/>
+  <img src="https://files.catbox.moe/sap0ih.gif" width="75" height="18" alt="bluudud 2"/>
+  <img src="https://files.catbox.moe/ezk59a.gif" width="85" height="18" alt="streamer 2"/>
+  <img src="https://files.catbox.moe/o4dhz4.gif" width="100" height="18" alt="twitter x"/>
+  <img src="https://files.catbox.moe/kako57.gif" width="50" height="18" alt="fag"/>
+  <img src="https://files.catbox.moe/xssb6y.gif" width="75" height="18" alt="discord"/>
+  <img src="https://files.catbox.moe/3zfk47.gif" width="40" height="18" alt="KRS"/>
+  ㅤ<br/>
+  <img src="https://files.catbox.moe/4w03o7.gif" width="55" height="18" alt="gooey"/>
+  <img src="https://files.catbox.moe/nkj0sl.gif" width="60" height="18" alt="jester"/>
+  <img src="https://files.catbox.moe/qvu2u3.gif" width="100" height="18" alt="artful"/>
 ㅤ<br/>
   <br/>
-  last update:ㅤ03/22/2026, 07:46am <br/>
+  last update:ㅤ03/24/2026, 04:30pm <br/>
