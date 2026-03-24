@@ -24,7 +24,8 @@
   <details>
   <summary>ㅤbutton collectionㅤ(ever-growing/wip)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ✦ㅤ</summary>
   ㅤ<br/>
-  all of the buttons i collect apply to me/my interests in one way or another, as i generally dislike collecting things that i don't resonate with. <br/>
+  all of the buttons i collect apply to me/my interests in one way or another, <br/>
+  as i generally dislike collecting things that i don't resonate with. <br/>
   ㅤ<br/>
   <img src="https://files.catbox.moe/ddnbyf.gif" width="50" height="18" alt="spade"/>
   <img src="https://files.catbox.moe/hvjrud.gif" width="75" height="18" alt="comedy"/>
