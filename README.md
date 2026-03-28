@@ -130,7 +130,7 @@
   <img src="https://files.catbox.moe/uz5wyf.gif" width="70" height="18" alt="noli 2"/>
   <img src="https://files.catbox.moe/g1a4s3.gif" width="140" height="18" alt="the void cult"/>
   <img src="https://files.catbox.moe/zidw8u.gif" width="140" height="18" alt="the void star"/>
-  <img src="https://files.catbox.moe/dhn42x.gif" width="120" height="18" alt="roblox myth"/>
+  <img src="https://files.catbox.moe/dhn42x.gif" width="120" height="18" alt="roblox myth 2"/>
 ㅤ<br/>
   <br/>
-  last update:ㅤ03/28/2026, 01:59pm <br/>
+  last update:ㅤ03/28/2026, 02:00pm <br/>
