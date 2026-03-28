@@ -75,6 +75,8 @@
   <img src="https://files.catbox.moe/j7ugyh.gif" width="65" height="18" alt="writer"/>
   <img src="https://files.catbox.moe/t8q2ch.gif" width="45" height="18" alt="ARG"/>
     <br/>
+  <img src="https://files.catbox.moe/lugd6a.gif" width="85" height="18" alt="mafioso"/>
+  <img src="https://files.catbox.moe/v9mtsr.gif" width="110" height="18" alt="dream game"/>
   <img src="https://files.catbox.moe/7y43wn.gif" width="80" height="18" alt="right hand"/>
   <img src="https://files.catbox.moe/uzrdfy.gif" width="55" height="18" alt="angel"/>
   <img src="https://files.catbox.moe/i7ndyf.gif" width="60" height="18" alt="gabriel"/>
@@ -121,6 +123,14 @@
   <img src="https://files.catbox.moe/4w03o7.gif" width="55" height="18" alt="gooey"/>
   <img src="https://files.catbox.moe/nkj0sl.gif" width="60" height="18" alt="jester"/>
   <img src="https://files.catbox.moe/qvu2u3.gif" width="100" height="18" alt="artful"/>
+  <img src="https://files.catbox.moe/c91f7z.gif" width="100" height="18" alt="ban hammer"/>
+  <img src="https://files.catbox.moe/e35fhw.gif" width="75" height="18" alt="noli"/>
+  <img src="https://files.catbox.moe/hq2lwu.gif" width="150" height="18" alt="hallucination"/>
+  <img src="https://files.catbox.moe/cpko6n.gif" width="125" height="18" alt="stardriven"/>
+  <img src="https://files.catbox.moe/uz5wyf.gif" width="70" height="18" alt="noli 2"/>
+  <img src="https://files.catbox.moe/g1a4s3.gif" width="140" height="18" alt="the void cult"/>
+  <img src="https://files.catbox.moe/zidw8u.gif" width="140" height="18" alt="the void star"/>
+  <img src="https://files.catbox.moe/dhn42x.gif" width="120" height="18" alt="roblox myth"/>
 ㅤ<br/>
   <br/>
-  last update:ㅤ03/24/2026, 04:30pm <br/>
+  last update:ㅤ03/28/2026, 01:59pm <br/>
