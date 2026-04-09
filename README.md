@@ -13,10 +13,9 @@
 <img src="https://files.catbox.moe/99z50u.png" width="450" height="500" alt="Image"/> <br/>
 
   [crrd](https://j777cking-my-jenis.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br/>
-    [sign ata](https://j777ckpot.atabook.org)ㅤㅤㅤ[sign tet](https://tetratto.com/@j777ckpot) <br/>
+  [atabook](https://j777ckpot.atabook.org)ㅤㅤㅤ[tetratto](https://tetratto.com/@j777ckpot) <br/>
 ㅤ<br/>
-  **art commissions:** <br/>
-  [info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br/>
+  [commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br/>
 
 ㅤ<br/>
 ㅤ<br/>
