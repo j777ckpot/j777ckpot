@@ -77,7 +77,6 @@
   <img src="https://files.catbox.moe/rgigqg.gif" width="~" height="18" alt="reddit"/>
   <img src="https://files.catbox.moe/nr8xo7.gif" width="~" height="18" alt="trick or treat"/>
   ㅤ<br/>
-  <img src="https://files.catbox.moe/xg9wkb.gif" width="~" height="18" alt="nerd"/>
   <img src="https://files.catbox.moe/ennky2.gif" width="~" height="18" alt="artist"/>
   <img src="https://files.catbox.moe/18lcl6.gif" width="~" height="18" alt="puppy"/>
   <img src="https://files.catbox.moe/5e5le1.gif" width="~" height="18" alt="shiba inu"/>
@@ -91,6 +90,7 @@
   <img src="https://files.catbox.moe/j7ugyh.gif" width="~" height="18" alt="writer"/>
   <img src="https://files.catbox.moe/t8q2ch.gif" width="~" height="18" alt="ARG"/>
     <br/>
+  <img src="https://files.catbox.moe/xg9wkb.gif" width="~" height="18" alt="nerd"/>
   <img src="https://files.catbox.moe/lugd6a.gif" width="~" height="18" alt="mafioso"/>
   <img src="https://files.catbox.moe/v9mtsr.gif" width="~" height="18" alt="dream game"/>
   <img src="https://files.catbox.moe/7y43wn.gif" width="~" height="18" alt="right hand"/>
@@ -178,7 +178,7 @@
   <img src="https://files.catbox.moe/ozbrs5.gif" width="~" height="18" alt="count fagula"/>
   ㅤ<br/>
   ㅤ<br/>
-  last button upd:ㅤ04/18/2026, 06:38pm <br/>
+  last button upd:ㅤ04/18/2026, 06:39pm <br/>
   </p>
   </div>
   </details>
