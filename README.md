@@ -3,7 +3,7 @@
 ㅤ<br/>
 ㅤ<br/>
 
-![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=⦻)
+![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤ⦻ㅤ)
 
 <br/>
 
