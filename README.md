@@ -7,8 +7,8 @@
 
 <br/>
 
-**jhariah,⠀captain,⠀jacques,⠀chance,⠀toby,⠀tim**ㅤ+ *other* <br/>
-8teen,ㅤhe/him
+**jhariah,⠀captain,⠀jacques,⠀chance,⠀toby,⠀tim**ㅤ+ other <br/>
+8teenㅤ⎯⎯ㅤhe/him
 
 <img src="https://files.catbox.moe/zxuklk.png" width="450" height="~" alt="Image"/> <br/>
 
