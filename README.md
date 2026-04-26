@@ -14,7 +14,7 @@
 <sub>
   [crrd](https://j777cking-my-jenis.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br/>
   [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://void-star.straw.page) <br/>
-  ⎯⎯⎯ㅤ[commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br/>
+  ⎯⎯ㅤ[commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br/>
 <sub>
 ㅤ<br/>
 ㅤ<br/>
