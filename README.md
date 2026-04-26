@@ -7,22 +7,20 @@
 
 <br/>
 
-**jhariah,⠀captain,⠀jacques,⠀chance,⠀toby,⠀tim**ㅤ+ other <br/>
-8teenㅤ⎯⎯ㅤhe/him
+**jhariah,⠀captain,⠀jacques,⠀tim,⠀toby**ㅤ+ *other* <br/>
+<sub> 8teenㅤ⎯⎯ㅤhe/him <sub> <br/>
 
 <img src="https://files.catbox.moe/zxuklk.png" width="450" height="~" alt="Image"/> <br/>
-
+<sub>
   [crrd](https://j777cking-my-jenis.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br/>
-  [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://void-star.straw.page)ㅤㅤㅤ[tetratto](https://tetratto.com/@j777ckpot) <br/>
+  [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://void-star.straw.page) <br/>
+  ⎯⎯⎯ㅤ[commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br/>
+<sub>
 ㅤ<br/>
-  [commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br/>
-
 ㅤ<br/>
-ㅤ<br/>
-
   <details>
   <summary>ㅤbutton collectionㅤ(ever-growing)ㅤ</summary>
-  ㅤ<br/>
+    <sub>
   all buttons i collect apply to me, my interests, or my aesthetic preferences, <br/>
   as i generally dislike collecting things that i don't resonate with. <br/>
   ㅤ<br/>
@@ -179,6 +177,7 @@
   ㅤ<br/>
   ㅤ<br/>
   last button upd:ㅤ04/18/2026, 06:39pm <br/>
+  <sub>
   </p>
   </div>
   </details>
