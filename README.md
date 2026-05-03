@@ -3,14 +3,14 @@
 ㅤ<br/>
 ㅤ<br/>
 
-![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤ⦻ㅤ)
+![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤRABBITSㅤ)
 
 <br/>
 
-**jhariah,⠀captain,⠀jacques,⠀tim,⠀toby**ㅤ+ *other* <br/>
+**jhariah,⠀captain,⠀jacques,⠀evan,⠀tim,⠀toby**ㅤ+ *other* <br/>
 <sub> 8teenㅤ⎯⎯ㅤhe/him <sub> <br/>
 
-<img src="https://files.catbox.moe/zxuklk.png" width="450" height="~" alt="Image"/> <br/>
+<img src="https://files.catbox.moe/zrxcal.png" width="450" height="~" alt="Image"/> <br/>
 <sub>
   [crrd](https://j777cking-my-jenis.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br/>
   [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://void-star.straw.page) <br/>
