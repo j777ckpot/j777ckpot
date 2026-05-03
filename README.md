@@ -7,7 +7,7 @@
 
 <br/>
 
-**jhariah,⠀captain,⠀jacques,⠀evan,⠀tim,⠀toby**ㅤ+ *other* <br/>
+**jhariah,⠀captain,⠀jacques,⠀evan / habit**ㅤ+ *other* <br/>
 <sub> 8teenㅤ⎯⎯ㅤhe/him <sub> <br/>
 
 <img src="https://files.catbox.moe/zrxcal.png" width="450" height="~" alt="Image"/> <br/>
