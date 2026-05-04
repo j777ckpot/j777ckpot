@@ -126,6 +126,7 @@
   <img src="https://files.catbox.moe/aj6qan.gif" width="~" height="18" alt="leafeon"/>
   ㅤ<br/>
   <img src="https://files.catbox.moe/1mgodi.gif" width="~" height="18" alt="lucky"/>
+  <img src="https://files.catbox.moe/wobfud.gif" width="~" height="18" alt="rule34"/>
   <img src="https://files.catbox.moe/42cspk.gif" width="~" height="18" alt="outis 1"/>
   <img src="https://files.catbox.moe/9nnnpl.gif" width="~" height="18" alt="outis 2"/>
   <img src="https://files.catbox.moe/gb9ax5.gif" width="~" height="18" alt="darkheart"/>
@@ -143,6 +144,7 @@
   <img src="https://files.catbox.moe/y0x44o.gif" width="~" height="18" alt="medkit"/>
   <img src="https://files.catbox.moe/urzv06.gif" width="~" height="18" alt="medkit 2"/>
   <img src="https://files.catbox.moe/ageouj.gif" width="~" height="18" alt="doctor"/>
+  <img src="https://files.catbox.moe/crs7np.gif" width="~" height="18" alt="medkit 3"/>
   ㅤ<br/>
   <img src="https://files.catbox.moe/lxgozo.gif" width="~" height="18" alt="pirate"/>
   <img src="https://files.catbox.moe/gte487.gif" width="~" height="18" alt="robert"/>
