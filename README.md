@@ -3,16 +3,11 @@
   <br/>
   <br/>
 
-<img src="https://files.catbox.moe/9qx77n.png" width="450" height="~" alt="banner"/> <br/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤRABBITSㅤ)
 
-  <div align="middle">
+<img src="https://files.catbox.moe/ab3hs0.png" width="450" height="~" alt="RABBIT OR HABIT?"/> <br/>
 
-![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤRABBITSㅤ)<br/>
-
-<br/>
-<br/>
-
-  <div align="left">
+  <br/>
   
 **jhariah,⠀captain,⠀jacques,⠀evan / habit**ㅤ+ *other* <br/>
 <sub> 8teenㅤ⎯⎯ㅤhe/him <sub> <br/>
@@ -23,8 +18,13 @@
   [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://void-star.straw.page) <br/>
   ⎯⎯ㅤ[commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br/>
   <sub>
+  
 ㅤ<br/>
+
+<img src="https://files.catbox.moe/w9iikc.png" width="450" height="~" alt="HABIT OR RIB?"/> <br/>
+
 ㅤ<br/>
+
   <details>
   <summary>ㅤbutton collectionㅤ(ever-growing)ㅤ</summary>
     <sub>
