@@ -1,21 +1,28 @@
-<div align="left">
+  <div align="left">
 
-ㅤ<br/>
-ㅤ<br/>
+  <br/>
+  <br/>
 
-![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤRABBITSㅤ)
+<img src="https://files.catbox.moe/9qx77n.png" width="450" height="~" alt="banner"/> <br/>
+
+  <div align="middle">
+
+![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤRABBITSㅤ)<br/>
 
 <br/>
+<br/>
 
+  <div align="left">
+  
 **jhariah,⠀captain,⠀jacques,⠀evan / habit**ㅤ+ *other* <br/>
 <sub> 8teenㅤ⎯⎯ㅤhe/him <sub> <br/>
 
 <img src="https://files.catbox.moe/zrxcal.png" width="450" height="~" alt="Image"/> <br/>
-<sub>
+  <sub>
   [crrd](https://j777cking-my-jenis.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br/>
   [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://void-star.straw.page) <br/>
   ⎯⎯ㅤ[commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br/>
-<sub>
+  <sub>
 ㅤ<br/>
 ㅤ<br/>
   <details>
@@ -181,10 +188,12 @@
   <img src="https://files.catbox.moe/hq2lwu.gif" width="~" height="18" alt="hallucination"/>
   <img src="https://files.catbox.moe/cpko6n.gif" width="~" height="18" alt="stardriven"/>
   <img src="https://files.catbox.moe/n6sxtc.gif" width="~" height="18" alt="arcade"/>
+  <img src="https://files.catbox.moe/rqri35.gif" width="~" height="18" alt="game over"/>
   <img src="https://files.catbox.moe/xd5ug5.gif" width="~" height="18" alt="MANKIND'S BAD HABIT"/>
   <img src="https://files.catbox.moe/pbocdj.gif" width="~" height="18" alt="FUCK AI"/>
-  <img src="https://files.catbox.moe/p05rmk.gif" width="~" height="18" alt="CANYOUSEETHEWORDS"/>
+  ㅤ<br/>
   <img src="https://files.catbox.moe/9ag7mt.gif" width="~" height="18" alt="dom"/>
+  <img src="https://files.catbox.moe/p05rmk.gif" width="~" height="18" alt="CANYOUSEETHEWORDS"/>
   ㅤ<br/>
   <img src="https://files.catbox.moe/0zbzng.gif" width="~" height="18" alt="yaoi 2"/>
   <img src="https://files.catbox.moe/xbpmtm.gif" width="~" height="18" alt="toxic yaoi"/>
@@ -198,6 +207,7 @@
   <img src="https://files.catbox.moe/y8yv6s.gif" width="~" height="18" alt="multishipper"/>
   <img src="https://files.catbox.moe/0bnlsd.gif" width="~" height="18" alt="lust"/>
   <img src="https://files.catbox.moe/ss0vkk.gif" width="~" height="18" alt="bunny lover"/>
+  <img src="https://files.catbox.moe/50semz.gif" width="~" height="18" alt="bunny"/>
   <img src="https://files.catbox.moe/mlqa40.gif" width="~" height="18" alt="nasty"/>
   <img src="https://files.catbox.moe/dz7f9i.gif" width="~" height="18" alt="vampire boy"/>
   <img src="https://files.catbox.moe/ozbrs5.gif" width="~" height="18" alt="count fagula"/>
