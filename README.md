@@ -34,6 +34,8 @@
   <img src="https://files.catbox.moe/4k2wvv.gif" width="~" height="18" alt="gambler"/>
   <img src="https://files.catbox.moe/k2vre3.gif" width="~" height="18" alt="sentinel"/>
   <img src="https://files.catbox.moe/36n99z.gif" width="~" height="18" alt="chance"/>
+  <img src="https://files.catbox.moe/6uxw5y.gif" width="~" height="18" alt="fool"/>
+  <img src="https://files.catbox.moe/55h0tn.gif" width="~" height="18" alt="mastermind"/>
   <img src="https://files.catbox.moe/qwfuts.gif" width="~" height="18" alt="inked"/>
   <img src="https://files.catbox.moe/ibp830.gif" width="~" height="18" alt="blocktales"/>
   <img src="https://files.catbox.moe/c6o8ch.gif" width="~" height="18" alt="ghostface"/>
@@ -161,6 +163,9 @@
   <img src="https://files.catbox.moe/e35fhw.gif" width="~" height="18" alt="noli"/>
   <img src="https://files.catbox.moe/hq2lwu.gif" width="~" height="18" alt="hallucination"/>
   <img src="https://files.catbox.moe/cpko6n.gif" width="~" height="18" alt="stardriven"/>
+  <img src="https://files.catbox.moe/n6sxtc.gif" width="~" height="18" alt="arcade"/>
+  <img src="https://files.catbox.moe/xd5ug5.gif" width="~" height="18" alt="MANKIND'S BAD HABIT"/>
+  <img src="https://files.catbox.moe/pbocdj.gif" width="~" height="18" alt="FUCK AI"/>
   <img src="https://files.catbox.moe/uz5wyf.gif" width="~" height="18" alt="noli 2"/>
   <img src="https://files.catbox.moe/g1a4s3.gif" width="~" height="18" alt="the void cult"/>
   <img src="https://files.catbox.moe/zidw8u.gif" width="~" height="18" alt="the void star"/>
