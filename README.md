@@ -27,9 +27,13 @@
   <img src="https://files.catbox.moe/6nt1gp.gif" width="~" height="18" alt="pure"/>
   <img src="https://files.catbox.moe/hvjrud.gif" width="~" height="18" alt="comedy"/>
   <img src="https://files.catbox.moe/nlf68m.gif" width="~" height="18" alt="nikolai"/>
+  <img src="https://files.catbox.moe/xjbw2i.gif" width="~" height="18" alt="possessive"/>
   <img src="https://files.catbox.moe/ddnbyf.gif" width="~" height="18" alt="spade"/>
   <img src="https://files.catbox.moe/c8amq0.gif" width="~" height="18" alt="entity"/>
+  <img src="https://files.catbox.moe/86rgo6.gif" width="~" height="18" alt="hazy delusion"/>
   <img src="https://files.catbox.moe/en3wqz.gif" width="~" height="18" alt="tragic"/>
+  <img src="https://files.catbox.moe/2bpror.gif" width="~" height="18" alt="creepy"/>
+  <img src="https://files.catbox.moe/zz560w.gif" width="~" height="18" alt="immortal"/>
   <img src="https://files.catbox.moe/tp3mkf.gif" width="~" height="18" alt="tragedy"/>
   <img src="https://files.catbox.moe/ahq1ti.gif" width="~" height="18" alt="crows"/>
   <img src="https://files.catbox.moe/4k2wvv.gif" width="~" height="18" alt="gambler"/>
