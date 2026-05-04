@@ -38,7 +38,9 @@
   <img src="https://files.catbox.moe/ibp830.gif" width="~" height="18" alt="blocktales"/>
   <img src="https://files.catbox.moe/c6o8ch.gif" width="~" height="18" alt="ghostface"/>
   ㅤ<br/>
+  <img src="https://files.catbox.moe/13ab0f.gif" width="~" height="18" alt="go to sleep"/>
   <img src="https://files.catbox.moe/ju23in.gif" width="~" height="18" alt="radiohead"/>
+  <img src="https://files.catbox.moe/po4eaw.gif" width="~" height="18" alt="ghoul"/>
   <img src="https://files.catbox.moe/tt8iq0.gif" width="~" height="18" alt="court jester"/>
   <img src="https://files.catbox.moe/a8qfgl.gif" width="~" height="18" alt="cry of fear"/>
   <img src="https://files.catbox.moe/zuf2sb.gif" width="~" height="18" alt="simon henriksson"/>
@@ -49,11 +51,14 @@
   <img src="https://files.catbox.moe/gab52n.gif" width="~" height="18" alt="burger"/>
   <img src="https://files.catbox.moe/y0ia6u.gif" width="~" height="18" alt="flatline"/>
   <img src="https://files.catbox.moe/j057ov.gif" width="~" height="18" alt="vamp"/>
+  <img src="https://files.catbox.moe/9thg70.gif" width="~" height="18" alt="spread the word"/>
   <img src="https://files.catbox.moe/v7f3c4.gif" width="~" height="18" alt="malevola"/>
   <img src="https://files.catbox.moe/njqd02.gif" width="~" height="18" alt="wrath"/>
   <img src="https://files.catbox.moe/gc9a1u.gif" width="~" height="18" alt="spooky"/>
   <img src="https://files.catbox.moe/teals8.gif" width="~" height="18" alt="pinterest"/>
   <img src="https://files.catbox.moe/oeh4pk.gif" width="~" height="18" alt="team coolkidd"/>
+  <img src="https://files.catbox.moe/uuuaxj.gif" width="~" height="18" alt="i <3 fear"/>
+  <img src="https://files.catbox.moe/nf0kkw.gif" width="~" height="18" alt="am i interrupting?"/>
   <img src="https://files.catbox.moe/raaaz4.gif" width="~" height="18" alt="creepypasta fan"/>
   <img src="https://files.catbox.moe/lpp5vl.gif" width="~" height="18" alt="shadow"/>
   <img src="https://files.catbox.moe/a5rpmu.gif" width="~" height="18" alt="EVIL"/>
@@ -64,6 +69,7 @@
   <img src="https://files.catbox.moe/iq2uxw.gif" width="~" height="18" alt="bloodthirsty"/>
   <img src="https://files.catbox.moe/5webf8.gif" width="~" height="18" alt="loverboy"/>
   <img src="https://files.catbox.moe/36e382.gif" width="~" height="18" alt="forsaken"/>
+  <img src="https://files.catbox.moe/75gwa6.gif" width="~" height="18" alt="you won"/>
   <img src="https://files.catbox.moe/1776pm.gif" width="~" height="18" alt="deimos"/>
   ㅤ<br/>
   <img src="https://files.catbox.moe/u1h4t8.gif" width="~" height="18" alt="pork soda"/>
