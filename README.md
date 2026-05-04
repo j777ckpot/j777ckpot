@@ -180,7 +180,6 @@
   <img src="https://files.catbox.moe/nkj0sl.gif" width="~" height="18" alt="jester"/>
   <img src="https://files.catbox.moe/tnv3tm.gif" width="~" height="18" alt="puppet"/>
   <img src="https://files.catbox.moe/suzm75.gif" width="~" height="18" alt="webmaster"/>
-  <img src="https://files.catbox.moe/qvu2u3.gif" width="~" height="18" alt="artful"/>
   <img src="https://files.catbox.moe/1xqj5p.gif" width="~" height="18" alt="pride"/>
   <img src="https://files.catbox.moe/oqjthh.gif" width="~" height="18" alt="je t'aime"/>
   <img src="https://files.catbox.moe/c91f7z.gif" width="~" height="18" alt="ban hammer"/>
@@ -192,6 +191,7 @@
   <img src="https://files.catbox.moe/xd5ug5.gif" width="~" height="18" alt="MANKIND'S BAD HABIT"/>
   <img src="https://files.catbox.moe/pbocdj.gif" width="~" height="18" alt="FUCK AI"/>
   ㅤ<br/>
+  <img src="https://files.catbox.moe/qvu2u3.gif" width="~" height="18" alt="artful"/>
   <img src="https://files.catbox.moe/9ag7mt.gif" width="~" height="18" alt="dom"/>
   <img src="https://files.catbox.moe/p05rmk.gif" width="~" height="18" alt="CANYOUSEETHEWORDS"/>
   ㅤ<br/>
