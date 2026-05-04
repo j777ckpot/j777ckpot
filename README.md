@@ -31,12 +31,15 @@
   <img src="https://files.catbox.moe/c8amq0.gif" width="~" height="18" alt="entity"/>
   <img src="https://files.catbox.moe/en3wqz.gif" width="~" height="18" alt="tragic"/>
   <img src="https://files.catbox.moe/tp3mkf.gif" width="~" height="18" alt="tragedy"/>
+  <img src="https://files.catbox.moe/ahq1ti.gif" width="~" height="18" alt="crows"/>
   <img src="https://files.catbox.moe/4k2wvv.gif" width="~" height="18" alt="gambler"/>
   <img src="https://files.catbox.moe/k2vre3.gif" width="~" height="18" alt="sentinel"/>
   <img src="https://files.catbox.moe/36n99z.gif" width="~" height="18" alt="chance"/>
+  <img src="https://files.catbox.moe/vdq42p.gif" width="~" height="18" alt="sin"/>
   <img src="https://files.catbox.moe/6uxw5y.gif" width="~" height="18" alt="fool"/>
   <img src="https://files.catbox.moe/55h0tn.gif" width="~" height="18" alt="mastermind"/>
   <img src="https://files.catbox.moe/qwfuts.gif" width="~" height="18" alt="inked"/>
+  <img src="https://files.catbox.moe/tjzfiz.gif" width="~" height="18" alt="she every on my man till i"/>
   <img src="https://files.catbox.moe/ibp830.gif" width="~" height="18" alt="blocktales"/>
   <img src="https://files.catbox.moe/c6o8ch.gif" width="~" height="18" alt="ghostface"/>
   ㅤ<br/>
