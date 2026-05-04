@@ -168,9 +168,10 @@
   <img src="https://files.catbox.moe/38r5b2.gif" width="~" height="18" alt="cowboy 2"/>
   <img src="https://files.catbox.moe/qa6udp.gif" width="~" height="18" alt="mettaton"/>
   <img src="https://files.catbox.moe/pthgad.gif" width="~" height="18" alt="grillby"/>
+  <img src="https://files.catbox.moe/8z5ip2.gif" width="~" height="18" alt="loserboy"/>
   <img src="https://files.catbox.moe/y8yv6s.gif" width="~" height="18" alt="multishipper"/>
   <img src="https://files.catbox.moe/0bnlsd.gif" width="~" height="18" alt="lust"/>
-  <img src="https://files.catbox.moe/8z5ip2.gif" width="~" height="18" alt="loserboy"/>
+  <img src="https://files.catbox.moe/ss0vkk.gif" width="~" height="18" alt="bunny lover"/>
   <img src="https://files.catbox.moe/mlqa40.gif" width="~" height="18" alt="nasty"/>
   <img src="https://files.catbox.moe/dz7f9i.gif" width="~" height="18" alt="vampire boy"/>
   <img src="https://files.catbox.moe/ozbrs5.gif" width="~" height="18" alt="count fagula"/>
