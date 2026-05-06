@@ -28,7 +28,7 @@
   <details>
   <summary>ㅤbutton collectionㅤ(ever-growing)ㅤ</summary>
     <sub>
-  all buttons i collect apply to me, my interests, or my aesthetic preferences, <br/>
+  all buttons i collect/make apply to me, my interests, or my aesthetic preferences <br/>
   as i generally dislike collecting things that i don't resonate with. <br/>
   ㅤ<br/>
   <img src="https://files.catbox.moe/6nt1gp.gif" width="~" height="18" alt="pure"/>
