@@ -3,7 +3,7 @@
 ㅤ<br/>
 ㅤ<br/>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤRABBITSㅤ)<br/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤㅤㅤRABBITSㅤㅤㅤ)<br/>
 
 <img src="https://files.catbox.moe/ab3hs0.png" width="450" height="~" alt="RABBIT OR HABIT?"/> <br/>
 
