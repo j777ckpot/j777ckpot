@@ -1,7 +1,6 @@
   <div align="left">
 
 ㅤ<br>
-ㅤ<br>
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤㅤㅤRABBITSㅤㅤㅤ)<br>
 
@@ -23,9 +22,7 @@
 ㅤ<br>
 
 <img src="https://files.catbox.moe/w9iikc.png" width="450" height="~" alt="HABIT OR RIB?"/> <br>
-
 ㅤ<br>
-
   <details>
   <summary>ㅤbutton collectionㅤ(ever-growing)ㅤ</summary>
     <sub>
@@ -234,5 +231,4 @@
 </details>
 </div>
 
-  ㅤ<br>
   ㅤ<br>
