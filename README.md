@@ -1,36 +1,37 @@
   <div align="left">
 
-ㅤ<br/>
-ㅤ<br/>
+ㅤ<br>
+ㅤ<br>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤㅤㅤRABBITSㅤㅤㅤ)<br/>
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤ ![](https://komarev.com/ghpvc/?username=j777ckpot&color=000000&label=ㅤㅤㅤRABBITSㅤㅤㅤ)<br>
 
-<img src="https://files.catbox.moe/ab3hs0.png" width="450" height="~" alt="RABBIT OR HABIT?"/> <br/>
+<img src="https://files.catbox.moe/ab3hs0.png" width="450" height="~" alt="RABBIT OR HABIT?"/> <br>
 
-ㅤ<br/>
+ㅤ<br>
   
-**jhariah,⠀captain,⠀jacques,⠀evan / HABIT**ㅤ+ *other* <br/>
-<sub> 8teenㅤ⎯⎯ㅤhe/him <sub> <br/>
+**jhariah,⠀captain,⠀jacques,⠀evan / HABIT**ㅤ+ *other* <br>
+<sub> 8teenㅤ⎯⎯ㅤhe/him <sub> <br>
 
-<img src="https://files.catbox.moe/zrxcal.png" width="450" height="~" alt="Image"/> <br/>
+<img src="https://files.catbox.moe/zrxcal.png" width="450" height="~" alt="Image"/> <br>
   <sub>
-  [crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br/>
-  [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page) <br/>
-  ⎯⎯ㅤ[commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br/>
+  [crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
+  [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt acc](https://github.com/ZOMBIELOVEJUICE) <br>
+<br>
+  ⎯⎯ㅤ[commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br>
   <sub>
   
-ㅤ<br/>
+ㅤ<br>
 
-<img src="https://files.catbox.moe/w9iikc.png" width="450" height="~" alt="HABIT OR RIB?"/> <br/>
+<img src="https://files.catbox.moe/w9iikc.png" width="450" height="~" alt="HABIT OR RIB?"/> <br>
 
-ㅤ<br/>
+ㅤ<br>
 
   <details>
   <summary>ㅤbutton collectionㅤ(ever-growing)ㅤ</summary>
     <sub>
-  all buttons i collect/make apply to me, my interests, or my aesthetic preferences <br/>
-  as i generally dislike collecting things that i don't resonate with. <br/>
-  ㅤ<br/>
+  all buttons i collect/make apply to me, my interests, or my aesthetic preferences <br>
+  as i generally dislike collecting things that i don't resonate with. <br>
+  ㅤ<br>
   <img src="https://files.catbox.moe/6nt1gp.gif" width="~" height="18" alt="pure"/>
   <img src="https://files.catbox.moe/hvjrud.gif" width="~" height="18" alt="comedy"/>
   <img src="https://files.catbox.moe/nlf68m.gif" width="~" height="18" alt="nikolai"/>
@@ -51,7 +52,7 @@
   <img src="https://files.catbox.moe/55h0tn.gif" width="~" height="18" alt="mastermind"/>
   <img src="https://files.catbox.moe/qwfuts.gif" width="~" height="18" alt="inked"/>
   <img src="https://files.catbox.moe/tjzfiz.gif" width="~" height="18" alt="she every on my man till i"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/13ab0f.gif" width="~" height="18" alt="go to sleep"/>
   <img src="https://files.catbox.moe/ju23in.gif" width="~" height="18" alt="radiohead"/>
   <img src="https://files.catbox.moe/po4eaw.gif" width="~" height="18" alt="ghoul"/>
@@ -87,7 +88,7 @@
   <img src="https://files.catbox.moe/1776pm.gif" width="~" height="18" alt="deimos"/>
   <img src="https://files.catbox.moe/36e382.gif" width="~" height="18" alt="forsaken"/>
   <img src="https://files.catbox.moe/ibp830.gif" width="~" height="18" alt="blocktales"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/u1h4t8.gif" width="~" height="18" alt="pork soda"/>
   <img src="https://files.catbox.moe/gqgbkb.gif" width="~" height="18" alt="paw"/>
   <img src="https://files.catbox.moe/w49yrh.gif" width="~" height="18" alt="gluttony"/>
@@ -96,7 +97,7 @@
   <img src="https://files.catbox.moe/tk4pgg.gif" width="~" height="18" alt="pumpkin 2"/>
   <img src="https://files.catbox.moe/rgigqg.gif" width="~" height="18" alt="reddit"/>
   <img src="https://files.catbox.moe/nr8xo7.gif" width="~" height="18" alt="trick or treat"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/ennky2.gif" width="~" height="18" alt="artist"/>
   <img src="https://files.catbox.moe/18lcl6.gif" width="~" height="18" alt="puppy"/>
   <img src="https://files.catbox.moe/5e5le1.gif" width="~" height="18" alt="shiba inu"/>
@@ -109,7 +110,7 @@
   <img src="https://files.catbox.moe/l0jbel.gif" width="~" height="18" alt="ranpo"/>
   <img src="https://files.catbox.moe/j7ugyh.gif" width="~" height="18" alt="writer"/>
   <img src="https://files.catbox.moe/t8q2ch.gif" width="~" height="18" alt="ARG"/>
-    <br/>
+    <br>
   <img src="https://files.catbox.moe/xg9wkb.gif" width="~" height="18" alt="nerd"/>
   <img src="https://files.catbox.moe/lugd6a.gif" width="~" height="18" alt="mafioso"/>
   <img src="https://files.catbox.moe/v9mtsr.gif" width="~" height="18" alt="dream game"/>
@@ -126,12 +127,12 @@
   <img src="https://files.catbox.moe/v5ju3s.gif" width="~" height="18" alt="LCB"/>
   <img src="https://files.catbox.moe/aw69uu.gif" width="~" height="18" alt="limbus company"/>
   <img src="https://files.catbox.moe/8maktc.gif" width="~" height="18" alt="limbus"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/vxt0jj.gif" width="~" height="18" alt="creeper"/>
   <img src="https://files.catbox.moe/33vgw4.gif" width="~" height="18" alt="envy"/>
   <img src="https://files.catbox.moe/r6oddv.gif" width="~" height="18" alt="hag"/>
   <img src="https://files.catbox.moe/aj6qan.gif" width="~" height="18" alt="leafeon"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/1mgodi.gif" width="~" height="18" alt="lucky"/>
   <img src="https://files.catbox.moe/wobfud.gif" width="~" height="18" alt="rule34"/>
   <img src="https://files.catbox.moe/42cspk.gif" width="~" height="18" alt="outis 1"/>
@@ -143,16 +144,16 @@
   <img src="https://files.catbox.moe/agurvh.gif" width="~" height="18" alt="kwite"/>
   <img src="https://files.catbox.moe/oljt88.gif" width="~" height="18" alt="dead"/>
   <img src="https://files.catbox.moe/haazdh.gif" width="~" height="18" alt="villain"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/7ngc4b.gif" width="~" height="18" alt="yaoi lover"/>
   <img src="https://files.catbox.moe/mokmyf.gif" width="~" height="18" alt="it's tv time"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/bgcsl0.gif" width="~" height="18" alt="sinner"/>
   <img src="https://files.catbox.moe/y0x44o.gif" width="~" height="18" alt="medkit"/>
   <img src="https://files.catbox.moe/urzv06.gif" width="~" height="18" alt="medkit 2"/>
   <img src="https://files.catbox.moe/ageouj.gif" width="~" height="18" alt="doctor"/>
   <img src="https://files.catbox.moe/crs7np.gif" width="~" height="18" alt="medkit 3"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/lxgozo.gif" width="~" height="18" alt="pirate"/>
   <img src="https://files.catbox.moe/gte487.gif" width="~" height="18" alt="robert"/>
   <img src="https://files.catbox.moe/dqbwdd.gif" width="~" height="18" alt="yaoi"/>
@@ -167,7 +168,7 @@
   <img src="https://files.catbox.moe/3zfk47.gif" width="~" height="18" alt="KRS"/>
   <img src="https://files.catbox.moe/kako57.gif" width="~" height="18" alt="fag"/>
   <img src="https://files.catbox.moe/c6o8ch.gif" width="~" height="18" alt="ghostface"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/xssb6y.gif" width="~" height="18" alt="discord"/>
   <img src="https://files.catbox.moe/i3j061.gif" width="~" height="18" alt="a jester"/>
   <img src="https://files.catbox.moe/x9riqw.gif" width="~" height="18" alt="purple"/>
@@ -176,7 +177,7 @@
   <img src="https://files.catbox.moe/g1a4s3.gif" width="~" height="18" alt="the void cult"/>
   <img src="https://files.catbox.moe/zidw8u.gif" width="~" height="18" alt="the void star"/>
   <img src="https://files.catbox.moe/dhn42x.gif" width="~" height="18" alt="roblox myth 2"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/4w03o7.gif" width="~" height="18" alt="gooey"/>
   <img src="https://files.catbox.moe/nkj0sl.gif" width="~" height="18" alt="jester"/>
   <img src="https://files.catbox.moe/tnv3tm.gif" width="~" height="18" alt="puppet"/>
@@ -191,11 +192,11 @@
   <img src="https://files.catbox.moe/rqri35.gif" width="~" height="18" alt="game over"/>
   <img src="https://files.catbox.moe/xd5ug5.gif" width="~" height="18" alt="MANKIND'S BAD HABIT"/>
   <img src="https://files.catbox.moe/pbocdj.gif" width="~" height="18" alt="FUCK AI"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/qvu2u3.gif" width="~" height="18" alt="artful"/>
   <img src="https://files.catbox.moe/9ag7mt.gif" width="~" height="18" alt="dom"/>
   <img src="https://files.catbox.moe/p05rmk.gif" width="~" height="18" alt="CANYOUSEETHEWORDS"/>
-  ㅤ<br/>
+  ㅤ<br>
   <img src="https://files.catbox.moe/0zbzng.gif" width="~" height="18" alt="yaoi 2"/>
   <img src="https://files.catbox.moe/xbpmtm.gif" width="~" height="18" alt="toxic yaoi"/>
   <img src="https://files.catbox.moe/g1ztaw.gif" width="~" height="18" alt="possessive"/>
@@ -212,9 +213,9 @@
   <img src="https://files.catbox.moe/mlqa40.gif" width="~" height="18" alt="nasty"/>
   <img src="https://files.catbox.moe/dz7f9i.gif" width="~" height="18" alt="vampire boy"/>
   <img src="https://files.catbox.moe/ozbrs5.gif" width="~" height="18" alt="count fagula"/>
-  ㅤ<br/>
-  ㅤ<br/>
-  last button upd:ㅤ05/04/2026, 04:33pm <br/>
+  ㅤ<br>
+  ㅤ<br>
+  last button upd:ㅤ05/04/2026, 04:33pm <br>
   <sub>
   </p>
   </div>
@@ -222,19 +223,16 @@
 
   <details>
   <summary>ㅤclick 2 construct hyperrealistic penisㅤ</summary>
-    tip
+    tip <br>
+    shaft <br>
+    balls <br>
   <br>
-    shaft
-  <br>
-    balls
-  </br>
-  </br>
 <img src="https://files.catbox.moe/7pi4x3.jpg" width="150" height="~" alt="penis image"/>
 <img src="https://files.catbox.moe/82egav.jpg" width="150" height="~" alt="penis image 2"/>
-<br/>
+<br>
 </p>
 </details>
 </div>
 
-  ㅤ<br/>
-  ㅤ<br/>
+  ㅤ<br>
+  ㅤ<br>
