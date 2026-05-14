@@ -174,7 +174,9 @@
   <img src="https://files.catbox.moe/53ftgc.gif" width="~" height="18" alt="hyperlaser"/>
   <img src="https://files.catbox.moe/a2ie23.gif" width="~" height="18" alt="mercenary"/>
   <img src="https://files.catbox.moe/3zfk47.gif" width="~" height="18" alt="KRS"/>
+  <img src="https://files.catbox.moe/xrl6x7.gif" width="~" height="18" alt="kris"/>
   ㅤ<br>
+  <img src="https://files.catbox.moe/2ow5yb.gif" width="~" height="18" alt="detective"/>
   <img src="https://files.catbox.moe/xssb6y.gif" width="~" height="18" alt="discord"/>
   <img src="https://files.catbox.moe/i3j061.gif" width="~" height="18" alt="a jester"/>
   <img src="https://files.catbox.moe/x9riqw.gif" width="~" height="18" alt="purple"/>
