@@ -15,7 +15,6 @@
   <sub>
   [crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
   [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt acc](https://github.com/ZOMBIELOVEJUICE) <br>
-  [my stance on pro/darkshipping + a message to the proshippers who have allegedly been talking about me](https://docs.google.com/document/d/1iLRd9V63s2xX1ddW6OW94AQ3z_8Q8sEUErzsVFyExks/edit?usp=sharing) <br>
   ⎯⎯ㅤ[commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br>
   <sub>
   
