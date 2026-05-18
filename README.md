@@ -46,6 +46,7 @@
   <img src="https://files.catbox.moe/vdq42p.gif" width="~" height="18" alt="sin"/>
   <img src="https://files.catbox.moe/6uxw5y.gif" width="~" height="18" alt="fool"/>
   <img src="https://files.catbox.moe/55h0tn.gif" width="~" height="18" alt="mastermind"/>
+  <img src="https://files.catbox.moe/vthf0p.gif" width="~" height="18" alt="knight"/>
   <img src="https://files.catbox.moe/qwfuts.gif" width="~" height="18" alt="inked"/>
   <img src="https://files.catbox.moe/tjzfiz.gif" width="~" height="18" alt="she every on my man till i"/>
   ㅤ<br>
@@ -108,6 +109,7 @@
   <img src="https://files.catbox.moe/t8q2ch.gif" width="~" height="18" alt="ARG"/>
     <br>
   <img src="https://files.catbox.moe/xg9wkb.gif" width="~" height="18" alt="nerd"/>
+  <img src="https://files.catbox.moe/nqm7af.gif" width="~" height="18" alt="keroppi"/>
   <img src="https://files.catbox.moe/lugd6a.gif" width="~" height="18" alt="mafioso"/>
   <img src="https://files.catbox.moe/v9mtsr.gif" width="~" height="18" alt="dream game"/>
   <img src="https://files.catbox.moe/7y43wn.gif" width="~" height="18" alt="right hand"/>
@@ -133,8 +135,11 @@
   <img src="https://files.catbox.moe/r6oddv.gif" width="~" height="18" alt="hag"/>
   <img src="https://files.catbox.moe/kd9vuq.png" width="~" height="18" alt="toxic"/>
   <img src="https://files.catbox.moe/o5y9w1.gif" width="~" height="18" alt="griefer"/>
+  <img src="https://files.catbox.moe/p86383.gif" width="~" height="18" alt="mossy"/>
+  <img src="https://files.catbox.moe/ygioli.gif" width="~" height="18" alt="haunted"/>
   ㅤ<br>
   <img src="https://files.catbox.moe/1mgodi.gif" width="~" height="18" alt="lucky"/>
+  <img src="https://files.catbox.moe/9q71zw.gif" width="~" height="18" alt="keroppi"/>
   <img src="https://files.catbox.moe/wobfud.gif" width="~" height="18" alt="rule34"/>
   <img src="https://files.catbox.moe/42cspk.gif" width="~" height="18" alt="outis 1"/>
   <img src="https://files.catbox.moe/9nnnpl.gif" width="~" height="18" alt="outis 2"/>
@@ -150,7 +155,7 @@
   <img src="https://files.catbox.moe/haazdh.gif" width="~" height="18" alt="villain"/>
   ㅤ<br>
   <img src="https://files.catbox.moe/7ngc4b.gif" width="~" height="18" alt="yaoi lover"/>
-  <img src="https://files.catbox.moe/mokmyf.gif" width="~" height="18" alt="it's tv time"/>
+  <img src="https://files.catbox.moe/mokmyf.gif" width="~" height="~" alt="it's tv time"/>
   ㅤ<br>
   <img src="https://files.catbox.moe/bgcsl0.gif" width="~" height="18" alt="sinner"/>
   <img src="https://files.catbox.moe/y0x44o.gif" width="~" height="18" alt="medkit"/>
@@ -231,7 +236,7 @@
   <img src="https://files.catbox.moe/ozbrs5.gif" width="~" height="18" alt="count fagula"/>
   ㅤ<br>
   ㅤ<br>
-  last button upd:ㅤ05/18/2026, 01:03pm <br>
+  last button upd:ㅤ05/18/2026, 01:14pm <br>
   <sub>
   </p>
   </div>
