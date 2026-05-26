@@ -13,7 +13,7 @@
 
 <img src="https://files.catbox.moe/zrxcal.png" width="450" height="~" alt="Image"/> <br>
   <sub>
-  [crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.cc](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
+  [byi & dni (.cc)](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
   [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt acc](https://github.com/ZOMBIELOVEJUICE) <br>
   ⎯⎯ㅤ[commission info](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br>
   <sub>
