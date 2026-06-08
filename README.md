@@ -11,7 +11,7 @@
 **evan / HABIT,⠀jhariah,⠀captain,⠀jacques**ㅤ+ *other* <br>
 <sub> 8teenㅤ⎯⎯ㅤhe/him <sub> <br>
 
-<img src="https://files.catbox.moe/gvagdv.png" width="450" height="~" alt="banner"/> <br>
+<img src="https://files.catbox.moe/djkd59.png" width="450" height="~" alt="banner"/> <br>
   <sub>
   [byi & dni (.cc)](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
   [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt acc](https://github.com/ZOMBIELOVEJUICE) <br>
