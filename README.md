@@ -8,25 +8,25 @@
 
 ㅤ<br>
 
-**evan / HABIT,⠀jhariah,⠀captain,⠀jacques**ㅤ+ *other* <br>
-<sub> 8teenㅤ⎯⎯ㅤhe/him <sub> <br>
+**evan / HABIT,⠀jhariah,⠀captain,⠀jacques**ㅤ<sup>+ *other*</sup> <br>
+<sub> ⎯⎯ㅤ8teen,ㅤhe/him </sub> <br>
 
 <img src="https://files.catbox.moe/ehhgp3.png" width="485" height="~" alt="banner"/> <br>
-  <sub>
+  <sup>
   [byi & dni (.cc)](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
   [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt acc](https://github.com/ZOMBIELOVEJUICE) <br>
   ⎯⎯ㅤ[twt](https://x.com/j777ckpot)ㅤㅤㅤ[commissions](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br>
-  <sub>
+  </sup>
   
 ㅤ<br>
 
 <img src="https://files.catbox.moe/w9iikc.png" width="450" height="~" alt="HABIT OR RIB?"/> <br>
 ㅤ<br>
   <details>
-  <summary>ㅤbutton collectionㅤ(ever-growing)ㅤ</summary>
-    <sub>
-  all buttons i collect/make apply to me, my interests, or my aesthetic preferences <br>
-  as i generally dislike collecting things that i don't resonate with. <br>
+  <summary>ㅤbuttons </summary>
+  <sub>
+  all buttons i collect/make apply to me, my interests, taste, or my aesthetic preferences. <br>
+  this is ever-growing and updates whenever i feel like it. <br>
   ㅤ<br>
   <img src="https://files.catbox.moe/6nt1gp.gif" width="~" height="18" alt="pure"/>
   <img src="https://files.catbox.moe/hvjrud.gif" width="~" height="18" alt="comedy"/>
@@ -237,7 +237,7 @@
   ㅤ<br>
   ㅤ<br>
   last button upd:ㅤ05/18/2026, 01:14pm <br>
-  <sub>
+  </sub>
   </p>
   </div>
   </details>
