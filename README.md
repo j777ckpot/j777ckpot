@@ -15,7 +15,7 @@
   <sup>
   [byi & dni (.cc)](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
   [新book](https://j777ckpot.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt acc](https://github.com/ZOMBIELOVEJUICE) <br>
-  ⎯⎯ㅤ[twt](https://x.com/j777ckpot)ㅤㅤㅤ[commissions](https://777commissions.carrd.co)ㅤㅤㅤ[buy](https://ko-fi.com/j777ckpot) <br>
+  ⎯⎯ㅤ[twt](https://x.com/j777ckpot)ㅤㅤㅤ[tumblr](https://www.tumblr.com/j777ckpot)ㅤㅤㅤ[commissions](https://777commissions.carrd.co)<br>
   </sup>
   
 ㅤ<br>
