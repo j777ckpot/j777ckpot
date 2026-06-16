@@ -8,13 +8,13 @@
 
 ㅤ<br>
 
-**evan / HABIT,⠀jhariah,⠀captain,⠀jacques**ㅤ<sup>+ *other*</sup> <br>
-<sub> ⎯⎯ㅤ8teen,ㅤhe/him </sub> <br>
+**EVAN**ㅤ<sub>OR</sub>ㅤ**HABIT**ㅤ<sup>+ OTHER</sup> <br>
+⎯⎯⠀8teenㅤhe/himㅤㅤ[ONE](https://github.com/VlSCARTE)ㅤ[TWO](https://github.com/RUST-010)ㅤ[THREE](https://github.com/EverymanHYBRIDJ) <br>
 
 <img src="https://files.catbox.moe/ehhgp3.png" width="485" height="~" alt="banner"/> <br>
   <sup>
   [byi & dni (.cc)](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
-  [新book](https://7-trials.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt acc](https://github.com/ZOMBIELOVEJUICE) <br>
+  [新book](https://7-trials.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt](https://github.com/ZOMBIELOVEJUICE) [accounts](https://github.com/7-TRIALS)<br>
   ⎯⎯ㅤ[twt](https://x.com/j777ckpot)ㅤㅤㅤ[tumblr](https://www.tumblr.com/j777ckpot)ㅤㅤㅤ[commissions](https://777commissions.carrd.co)<br>
   </sup>
   
