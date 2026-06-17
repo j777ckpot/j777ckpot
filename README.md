@@ -13,7 +13,7 @@
 
 <img src="https://files.catbox.moe/ehhgp3.png" width="485" height="~" alt="banner"/> <br>
   <sup>
-  [byi & dni (.cc)](https://pronouns.cc/@j777ckpot)ㅤㅤㅤ[crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
+  [byi & dni (.cc)](https://pronouns.cc/@7-trials)ㅤㅤㅤ[crrd](https://triple-seven.carrd.co)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
   [新book](https://7-trials.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt](https://github.com/ZOMBIELOVEJUICE) [accounts](https://github.com/7-TRIALS)<br>
   ⎯⎯ㅤ[twt](https://x.com/j777ckpot)ㅤㅤㅤ[tumblr](https://www.tumblr.com/j777ckpot)ㅤㅤㅤ[commissions](https://777commissions.carrd.co)<br>
   </sup>
