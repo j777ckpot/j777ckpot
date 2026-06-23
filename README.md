@@ -13,7 +13,7 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
 <img src="https://files.catbox.moe/ehhgp3.png" width="485" height="~" alt="banner"/> <br>
   <sup>
   [byi & dni (.cc)](https://pronouns.cc/@7-trials)ㅤㅤㅤ[crrd](https://7-trials.carrd.co)ㅤㅤㅤ[prns.page](https://en.pronouns.page/@j777ckpot) <br>
-  [新book](https://7-trials.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt](https://github.com/ZOMBIELOVEJUICE) [accounts](https://github.com/7-TRIALS)<br>
+  [新book](https://7-trials.atabook.org)ㅤㅤㅤ[straw.page](https://7-trials.straw.page)ㅤㅤㅤ[alt](https://github.com/ZOMBIELOVEJUICE) [acc](https://github.com/7-TRIALS)[ounts](https://github.com/xxXShadowl0rd420Xxx)<br>
   <sup>$\color{#8f0000}{\textsf{⎯⎯}}$</sup>ㅤ[twt](https://x.com/j777ckpot)ㅤㅤㅤ[tumblr](https://www.tumblr.com/j777ckpot)ㅤㅤㅤ[commissions](https://777commissions.carrd.co)<br>
   </sup>
   
