@@ -242,7 +242,7 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
   </details>
 
   <details>
-  <summary>ㅤclick 2 construct hyperrealistic penisㅤ</summary>
+  <summary>ㅤclick 2 construct hyperrealistic penis </summary>
     tip <br>
     shaft <br>
     balls <br>
