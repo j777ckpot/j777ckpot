@@ -8,7 +8,7 @@
 
 ㅤ<br>
 $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ $\color{#c70304}{\textsf{HABIT}}$ㅤ<sup>$\color{#8f0000}{\textsf{+ OTHER}}$</sup> <br>
-<sup>$\color{#8f0000}{\textsf{⎯⎯}}$</sup>⠀8teenㅤhe/himㅤㅤ[ONE](https://github.com/VlSCARTE)ㅤ[TWO](https://github.com/RUST-010)ㅤ[THREE](https://github.com/EverymanHYBRIDJ) <br>
+<sup>$\color{#8f0000}{\textsf{⎯⎯}}$</sup>⠀8teenㅤhe/himㅤㅤ[ONE](https://github.com/VlSCARTE)ㅤ[TWO](https://github.com/RUST-010)ㅤ[THREE](https://github.com/THEBLACKROOK) <br>
 
 <img src="https://files.catbox.moe/ehhgp3.png" width="485" height="~" alt="banner"/> <br>
   <sup>
