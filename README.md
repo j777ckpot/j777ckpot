@@ -31,6 +31,7 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
   <img src="https://files.catbox.moe/hvjrud.gif" width="~" height="18" alt="comedy"/>
   <img src="https://files.catbox.moe/nlf68m.gif" width="~" height="18" alt="nikolai"/>
   <img src="https://files.catbox.moe/xjbw2i.gif" width="~" height="18" alt="possessive"/>
+  <img src="https://files.catbox.moe/dherx4.gif" width="~" height="18" alt="the batter"/>
   <img src="https://files.catbox.moe/ddnbyf.gif" width="~" height="18" alt="spade"/>
   <img src="https://files.catbox.moe/c8amq0.gif" width="~" height="18" alt="entity"/>
   <img src="https://files.catbox.moe/86rgo6.gif" width="~" height="18" alt="hazy delusion"/>
@@ -109,12 +110,13 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
     <br>
   <img src="https://files.catbox.moe/xg9wkb.gif" width="~" height="18" alt="nerd"/>
   <img src="https://files.catbox.moe/nqm7af.gif" width="~" height="18" alt="keroppi"/>
-  <img src="https://files.catbox.moe/lugd6a.gif" width="~" height="18" alt="mafioso"/>
-  <img src="https://files.catbox.moe/v9mtsr.gif" width="~" height="18" alt="dream game"/>
+  <img src="https://files.catbox.moe/uieqi6.gif" width="~" height="18" alt="decayed"/>
   <img src="https://files.catbox.moe/7y43wn.gif" width="~" height="18" alt="right hand"/>
   <img src="https://files.catbox.moe/uzrdfy.gif" width="~" height="18" alt="angel"/>
   <img src="https://files.catbox.moe/i7ndyf.gif" width="~" height="18" alt="gabriel"/>
   <img src="https://files.catbox.moe/bpzsq1.gif" width="~" height="18" alt="archangel"/>
+  <img src="https://files.catbox.moe/ql91lj.gif" width="~" height="18" alt="OMFG"/>
+  <img src="https://files.catbox.moe/5kszha.gif" width="~" height="18" alt="this pissed me off"/>
     <br>
   <img src="https://files.catbox.moe/8h6sij.gif" width="~" height="18" alt="greed"/>
   <img src="https://files.catbox.moe/84l3v8.gif" width="~" height="18" alt="jolteon"/>
@@ -161,9 +163,11 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
   <img src="https://files.catbox.moe/urzv06.gif" width="~" height="18" alt="medkit 2"/>
   <img src="https://files.catbox.moe/ageouj.gif" width="~" height="18" alt="doctor"/>
   <img src="https://files.catbox.moe/crs7np.gif" width="~" height="18" alt="medkit 3"/>
+  <img src="https://files.catbox.moe/bi43du.gif" width="~" height="18" alt="haunted"/>
   <img src="https://files.catbox.moe/kako57.gif" width="~" height="18" alt="fag"/>
   <img src="https://files.catbox.moe/c6o8ch.gif" width="~" height="18" alt="ghostface"/>
   ㅤ<br>
+  <img src="https://files.catbox.moe/cjbqpx.gif" width="~" height="18" alt="static"/>
   <img src="https://files.catbox.moe/lxgozo.gif" width="~" height="18" alt="pirate"/>
   <img src="https://files.catbox.moe/gte487.gif" width="~" height="18" alt="robert"/>
   <img src="https://files.catbox.moe/m6jlrj.gif" width="~" height="18" alt="anxious"/>
@@ -172,6 +176,7 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
   <img src="https://files.catbox.moe/ug9lsh.gif" width="~" height="18" alt="streamer"/>
   <img src="https://files.catbox.moe/1p4kyn.gif" width="~" height="18" alt="balls!!!"/>
     <br>
+  <img src="https://files.catbox.moe/9zfsty.gif" width="~" height="18" alt="online"/>
   <img src="https://files.catbox.moe/w0w9ns.gif" width="~" height="18" alt="sloth"/>
   <img src="https://files.catbox.moe/dqbwdd.gif" width="~" height="18" alt="yaoi"/>
   <img src="https://files.catbox.moe/o4dhz4.gif" width="~" height="18" alt="twitter x"/>
@@ -183,10 +188,12 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
   <img src="https://files.catbox.moe/xrl6x7.gif" width="~" height="18" alt="kris"/>
   ㅤ<br>
   <img src="https://files.catbox.moe/2ow5yb.gif" width="~" height="18" alt="detective"/>
+  <img src="https://files.catbox.moe/xnd22y.gif" width="~" height="18" alt="jevil"/>
   <img src="https://files.catbox.moe/xssb6y.gif" width="~" height="18" alt="discord"/>
   <img src="https://files.catbox.moe/i3j061.gif" width="~" height="18" alt="a jester"/>
   <img src="https://files.catbox.moe/x9riqw.gif" width="~" height="18" alt="purple"/>
   <img src="https://files.catbox.moe/npeciy.gif" width="~" height="18" alt="horror"/>
+  <img src="https://files.catbox.moe/5b83qy.gif" width="~" height="18" alt="proxy"/>
   <img src="https://files.catbox.moe/uz5wyf.gif" width="~" height="18" alt="noli 2"/>
   <img src="https://files.catbox.moe/g1a4s3.gif" width="~" height="18" alt="the void cult"/>
   <img src="https://files.catbox.moe/zidw8u.gif" width="~" height="18" alt="the void star"/>
@@ -211,6 +218,7 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
   <img src="https://files.catbox.moe/9ag7mt.gif" width="~" height="18" alt="dom"/>
   <img src="https://files.catbox.moe/p05rmk.gif" width="~" height="18" alt="CANYOUSEETHEWORDS"/>
   <img src="https://files.catbox.moe/rcmvfz.gif" width="~" height="18" alt="bisexual"/>
+  <img src="https://files.catbox.moe/v9mqul.gif" width="~" height="18" alt="XD"/>
   ㅤ<br>
   <img src="https://files.catbox.moe/0zbzng.gif" width="~" height="18" alt="yaoi 2"/>
   <img src="https://files.catbox.moe/xbpmtm.gif" width="~" height="18" alt="toxic yaoi"/>
@@ -234,8 +242,11 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
   <img src="https://files.catbox.moe/dz7f9i.gif" width="~" height="18" alt="vampire boy"/>
   <img src="https://files.catbox.moe/ozbrs5.gif" width="~" height="18" alt="count fagula"/>
   ㅤ<br>
+  <img src="https://files.catbox.moe/vtfiju.gif" width="~" height="18" alt="autistic"/>
+  <img src="https://files.catbox.moe/vdxoyu.gif" width="~" height="18" alt="homos"/>
   ㅤ<br>
-  last button upd:ㅤ05/18/2026, 01:14pm <br>
+  ㅤ<br>
+  last button upd:ㅤ07/08/2026, 03:39am <br>
   </sub>
   </p>
   </div>
