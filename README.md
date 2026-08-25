@@ -98,7 +98,6 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
   <img src="https://files.catbox.moe/ennky2.gif" width="~" height="18" alt="artist"/>
   <img src="https://files.catbox.moe/18lcl6.gif" width="~" height="18" alt="puppy"/>
   <img src="https://files.catbox.moe/5e5le1.gif" width="~" height="18" alt="shiba inu"/>
-  <img src="https://files.catbox.moe/4ki28y.gif" width="~" height="18" alt="kemonomimi"/>
   <img src="https://files.catbox.moe/1rar2n.gif" width="~" height="18" alt="gregor 1"/>
   <img src="https://files.catbox.moe/s22m3h.gif" width="~" height="18" alt="gregor 2"/>
   <img src="https://files.catbox.moe/4czqrm.gif" width="~" height="18" alt="dazai"/>
