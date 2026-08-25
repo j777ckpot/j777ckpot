@@ -101,7 +101,6 @@ $\color{#c70304}{\textsf{EVAN}}$ㅤ <sup>$\color{#8f0000}{\textsf{OR}}$</sup>ㅤ
   <img src="https://files.catbox.moe/1rar2n.gif" width="~" height="18" alt="gregor 1"/>
   <img src="https://files.catbox.moe/s22m3h.gif" width="~" height="18" alt="gregor 2"/>
   <img src="https://files.catbox.moe/4czqrm.gif" width="~" height="18" alt="dazai"/>
-  <img src="https://files.catbox.moe/47atfn.gif" width="~" height="18" alt="dogboy"/>
   <img src="https://files.catbox.moe/avyx3x.gif" width="~" height="18" alt="cowboy"/>
   <img src="https://files.catbox.moe/l0jbel.gif" width="~" height="18" alt="ranpo"/>
   <img src="https://files.catbox.moe/j7ugyh.gif" width="~" height="18" alt="writer"/>
